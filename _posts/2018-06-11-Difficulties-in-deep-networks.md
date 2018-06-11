@@ -1,5 +1,5 @@
 ---
-title: How to use Jekyll
+title: Difficulties in training Deep Neural Networks
 date: 2018-06-11 15:48:52
 ---
 
